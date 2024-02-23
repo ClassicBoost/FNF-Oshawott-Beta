@@ -1,6 +1,30 @@
 # FNF VS Oshawott BETA Build
 This is a beta version of a known mod called VS Oshawott that I've help contributed to during it's mid stages. By the near the end of mod's devlopment (before V1 is released) the entire build was completely changed, I didn't want my work to go to waste so here you go.
 
+[The Full Mod](https://gamebanana.com/mods/486544)<br>
+[The Original Credits](https://docs.google.com/document/d/1V2_rVXUa3V4kC1qh3BHQBz3PUp2k5NUGWAi7p9Bg-Vk/edit#heading=h.r1f7l5mi477i)<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+![](https://cdn.discordapp.com/attachments/1175500451681140786/1210398062049107988/Screenshot_5369.png?ex=65ea6a0a&is=65d7f50a&hm=22c663bb3c31c0b370acc31b63c2a3465f22ded6e62aea5eb264de485b3a7788&)<br>
+<br>
+<br>
 # Friday Night Funkin' - Psych Forever Engine
 _Due to technical issues HScript is temporary disabled_
 
