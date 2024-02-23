@@ -1,8 +1,12 @@
-Due to technical issues HScript is temporary disabled
-
-This is currently in a alpha state of the 0.7.1h port, there may be bugs
+# FNF VS Oshawott BETA Build
+This is a beta version of a known mod called VS Oshawott that I've help contributed to during it's mid stages. By the near the end of mod's devlopment (before V1 is released) the entire build was completely changed, I didn't want my work to go to waste so here you go.
 
 # Friday Night Funkin' - Psych Forever Engine
+_Due to technical issues HScript is temporary disabled_
+
+_This is currently in a alpha state of the 0.7.1h port, there may be bugs_
+<br><br>
+
 Based on Psych Engine
 
 Psych Forever is a long project started when Psych Engine blew up (or 0.4.2) and had gone through many changes as time went on. Now with a Definitive Edition of v5 containing new content.
