@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="oshano.png">
+<SubTexture name="oshano idle0000" x="0" y="0" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano idle0001" x="84" y="0" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano down0000" x="168" y="0" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano down0001" x="0" y="104" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano down0002" x="84" y="104" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano up0000" x="168" y="104" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano up0001" x="0" y="208" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano up0002" x="84" y="208" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano left0000" x="168" y="208" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano left0001" x="0" y="312" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano left0002" x="84" y="312" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano right0000" x="168" y="312" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano right0001" x="0" y="416" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="oshano right0002" x="84" y="416" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+</TextureAtlas>

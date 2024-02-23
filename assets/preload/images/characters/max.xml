@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="max.png"><SubTexture name="max idle0000" x="0" y="0" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max idle0001" x="724" y="0" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max idle0002" x="1448" y="0" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max idle0003" x="2172" y="0" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max idle0004" x="0" y="604" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max up0000" x="724" y="604" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max up0001" x="1448" y="604" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max up0002" x="2172" y="604" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max down0000" x="0" y="1208" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max down0001" x="724" y="1208" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max down0002" x="1448" y="1208" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max left0000" x="2172" y="1208" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max left0001" x="0" y="1812" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max left0002" x="724" y="1812" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max right0000" x="1448" y="1812" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max right0001" x="2172" y="1812" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+<SubTexture name="max right0002" x="0" y="2416" width="724" height="604" frameX="0" frameY="0" frameWidth="724" frameHeight="604" />
+</TextureAtlas>

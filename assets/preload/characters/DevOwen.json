@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-593,
+				-240
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "owen idle"
+		},
+		{
+			"offsets": [
+				-618,
+				-236
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "owen left"
+		},
+		{
+			"offsets": [
+				-593,
+				-236
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "owen down"
+		},
+		{
+			"offsets": [
+				-592,
+				-242
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "owen up"
+		},
+		{
+			"offsets": [
+				-620,
+				-240
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "owen right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/owen",
+	"position": [
+		-630,
+		-40
+	],
+	"healthicon": "Owen",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		55,
+		0
+	],
+	"camera_position": [
+		530,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

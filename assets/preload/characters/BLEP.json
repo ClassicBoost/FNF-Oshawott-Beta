@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-29,
+				330
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "tep danceLEFT"
+		},
+		{
+			"offsets": [
+				-8,
+				328
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "tep danceRIGHT"
+		},
+		{
+			"offsets": [
+				-20,
+				325
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tep down"
+		},
+		{
+			"offsets": [
+				-26,
+				330
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tep up"
+		},
+		{
+			"offsets": [
+				164,
+				332
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tep left"
+		},
+		{
+			"offsets": [
+				-222,
+				324
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tep right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tep",
+	"position": [
+		100,
+		500
+	],
+	"healthicon": "bepig",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		128,
+		0
+	],
+	"camera_position": [
+		170,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

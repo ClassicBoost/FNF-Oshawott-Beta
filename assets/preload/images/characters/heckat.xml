@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="heckat.png"><SubTexture name="heckat idle0000" x="0" y="0" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat idle0001" x="724" y="0" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat idle0002" x="1448" y="0" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat idle0003" x="2172" y="0" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat idle0004" x="2896" y="0" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat idle0005" x="0" y="524" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat idle0006" x="724" y="524" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat idle0007" x="1448" y="524" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat up0000" x="2172" y="524" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat up0001" x="2896" y="524" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat up0002" x="0" y="1048" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat down0000" x="724" y="1048" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat down0001" x="1448" y="1048" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat down0002" x="2172" y="1048" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat left0000" x="2896" y="1048" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat left0001" x="0" y="1572" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat left0002" x="724" y="1572" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat right0000" x="1448" y="1572" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat right0001" x="2172" y="1572" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat right0002" x="2896" y="1572" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altL0000" x="0" y="2096" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altL0001" x="724" y="2096" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altL0002" x="1448" y="2096" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altR0000" x="2172" y="2096" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altR0001" x="2896" y="2096" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altR0002" x="0" y="2620" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altU0000" x="724" y="2620" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altU0001" x="1448" y="2620" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altU0002" x="2172" y="2620" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altD0000" x="2896" y="2620" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altD0001" x="0" y="3144" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+<SubTexture name="heckat altD0002" x="724" y="3144" width="724" height="524" frameX="0" frameY="0" frameWidth="724" frameHeight="524" />
+</TextureAtlas>

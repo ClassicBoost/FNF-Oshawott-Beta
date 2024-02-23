@@ -1,0 +1,42 @@
+{
+	"songs": [
+		[
+			"Shellshock",
+			"oshawott",
+			[
+				75,
+				113,
+				253
+			]
+		],
+		[
+			"Ocean Aggrivation",
+			"oshawott",
+			[
+				75,
+				113,
+				253
+			]
+		]
+		
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal, Shiny",
+	"weekCharacters": [
+		"osha-menu",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Water World",
+	"weekName": "Oshawott W1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

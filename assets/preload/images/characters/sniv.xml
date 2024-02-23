@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sniv.png">
+<SubTexture name="sniv danceLEFT0000" x="0" y="957" width="406" height="405" frameX="-39" frameY="-81" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv danceLEFT0001" x="0" y="957" width="406" height="405" frameX="-39" frameY="-125" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv danceRIGHT0000" x="406" y="957" width="406" height="405" frameX="-55" frameY="-87" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv danceRIGHT0001" x="406" y="957" width="406" height="405" frameX="-55" frameY="-125" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv up0000" x="0" y="0" width="384" height="499" frameX="-48" frameY="-29" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv up0001" x="1152" y="0" width="405" height="457" frameX="-35" frameY="-71" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv down0000" x="812" y="957" width="403" height="325" frameX="-61" frameY="-200" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv down0001" x="1152" y="457" width="394" height="362" frameX="-69" frameY="-161" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv left0000" x="384" y="0" width="381" height="475" frameX="0" frameY="-34" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv left0001" x="0" y="499" width="395" height="458" frameX="-26" frameY="-59" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv right0000" x="765" y="0" width="387" height="471" frameX="-111" frameY="-40" frameWidth="500" frameHeight="550" />
+<SubTexture name="sniv right0001" x="395" y="499" width="395" height="458" frameX="-79" frameY="-59" frameWidth="500" frameHeight="550" />
+</TextureAtlas>

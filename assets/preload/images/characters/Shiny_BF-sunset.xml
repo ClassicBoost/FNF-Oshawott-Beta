@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pokeball bf shiny.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN MISS instância 10000" x="0" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10001" x="388" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10002" x="388" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10003" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10004" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10005" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10006" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10007" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10008" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10009" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10010" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10011" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10012" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10013" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10014" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10015" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10016" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10017" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10018" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10019" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10020" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10021" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10022" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10023" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10024" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10025" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10026" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10027" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instância 10028" x="776" y="0" width="378" height="393"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10000" x="1164" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10001" x="1561" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10002" x="1561" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10003" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10004" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10005" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10006" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10007" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10008" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10009" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10010" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10011" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10012" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10013" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10014" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10015" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10016" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10017" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10018" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10019" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10020" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10021" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10022" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10023" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10024" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10025" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10026" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10027" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10028" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10029" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10030" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10031" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10032" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE LEFT MISS instância 10033" x="1958" y="0" width="387" height="432"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10000" x="2355" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10001" x="2780" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10002" x="2780" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10003" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10004" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10005" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10006" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10007" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10008" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10009" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10010" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10011" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10012" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10013" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10014" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10015" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10016" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10017" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10018" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10019" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10020" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10021" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10022" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10023" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10024" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10025" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10026" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10027" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10028" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10029" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10030" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10031" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10032" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10033" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10034" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10035" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10036" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10037" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10038" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10039" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10040" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10041" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10042" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10043" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10044" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE RIGHT MISS instância 10045" x="3205" y="0" width="415" height="435"/>
+	<SubTexture name="BF NOTE UP MISS instância 10000" x="3630" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10001" x="4019" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10002" x="4019" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10003" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10004" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10005" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10006" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10007" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10008" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10009" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10010" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10011" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10012" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10013" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10014" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10015" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10016" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10017" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10018" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10019" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10020" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10021" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10022" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF NOTE UP MISS instância 10023" x="4408" y="0" width="379" height="447"/>
+	<SubTexture name="BF idle dance instância 10000" x="4797" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10001" x="4797" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10002" x="5214" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10003" x="5214" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10004" x="5631" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10005" x="5631" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10006" x="6048" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10007" x="6048" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10008" x="6465" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10009" x="6465" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10010" x="6465" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10011" x="6465" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10012" x="6465" y="0" width="407" height="413"/>
+	<SubTexture name="BF idle dance instância 10013" x="6465" y="0" width="407" height="413"/>
+	<SubTexture name="Down instância 10000" x="6882" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10001" x="6882" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10002" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10003" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10004" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10005" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10006" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10007" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10008" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10009" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10010" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10011" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10012" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Down instância 10013" x="7267" y="0" width="375" height="362"/>
+	<SubTexture name="Left instância 10000" x="7652" y="0" width="388" height="406"/>
+	<SubTexture name="Left instância 10001" x="7652" y="0" width="388" height="406"/>
+	<SubTexture name="Left instância 10002" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10003" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10004" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10005" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10006" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10007" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10008" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10009" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10010" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10011" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10012" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Left instância 10013" x="0" y="457" width="388" height="406"/>
+	<SubTexture name="Right instância 10000" x="398" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10001" x="398" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10002" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10003" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10004" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10005" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10006" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10007" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10008" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10009" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10010" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10011" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10012" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Right instância 10013" x="818" y="457" width="410" height="408"/>
+	<SubTexture name="Up instância 10000" x="1238" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10001" x="1238" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10002" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10003" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10004" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10005" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10006" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10007" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10008" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10009" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10010" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10011" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10012" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="Up instância 10013" x="1624" y="457" width="376" height="446"/>
+	<SubTexture name="throw instância 10000" x="2010" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10001" x="2010" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10002" x="3137" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10003" x="3137" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10004" x="4264" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10005" x="4264" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10006" x="5391" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10007" x="5391" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10008" x="6518" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10009" x="6518" y="457" width="1117" height="652"/>
+	<SubTexture name="throw instância 10010" x="0" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10011" x="0" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10012" x="1127" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10013" x="1127" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10014" x="2254" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10015" x="2254" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10016" x="3381" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10017" x="3381" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10018" x="4508" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10019" x="4508" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10020" x="5635" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10021" x="5635" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10022" x="6762" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10023" x="6762" y="1119" width="1117" height="652"/>
+	<SubTexture name="throw instância 10024" x="0" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10025" x="0" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10026" x="0" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10027" x="1127" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10028" x="1127" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10029" x="2254" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10030" x="2254" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10031" x="3381" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10032" x="3381" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10033" x="4508" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10034" x="4508" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10035" x="5635" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10036" x="5635" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10037" x="5635" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10038" x="6762" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10039" x="6762" y="1781" width="1117" height="652"/>
+	<SubTexture name="throw instância 10040" x="0" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10041" x="1127" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10042" x="1127" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10043" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10044" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10045" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10046" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10047" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10048" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10049" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10050" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10051" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10052" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10053" x="2254" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10054" x="3381" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10055" x="3381" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10056" x="4508" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10057" x="4508" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10058" x="4508" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10059" x="4508" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10060" x="4508" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10061" x="5635" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10062" x="5635" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10063" x="6762" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10064" x="6762" y="2443" width="1117" height="652"/>
+	<SubTexture name="throw instância 10065" x="0" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10066" x="0" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10067" x="1127" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10068" x="1127" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10069" x="2254" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10070" x="2254" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10071" x="3381" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10072" x="3381" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10073" x="4508" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10074" x="4508" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10075" x="5635" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10076" x="5635" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10077" x="6762" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10078" x="6762" y="3105" width="1117" height="652"/>
+	<SubTexture name="throw instância 10079" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10080" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10081" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10082" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10083" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10084" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10085" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10086" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10087" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10088" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10089" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10090" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10091" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10092" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10093" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10094" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10095" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10096" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10097" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10098" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10099" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10100" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10101" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10102" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10103" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10104" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10105" x="1127" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10106" x="1127" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10107" x="2254" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10108" x="2254" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10109" x="3381" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10110" x="3381" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10111" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10112" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10113" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10114" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10115" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10116" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10117" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10118" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10119" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10120" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10121" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10122" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10123" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10124" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10125" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10126" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10127" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10128" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10129" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10130" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10131" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10132" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10133" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10134" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10135" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10136" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10137" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10138" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10139" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10140" x="1127" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10141" x="1127" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10142" x="2254" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10143" x="2254" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10144" x="3381" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10145" x="3381" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10146" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10147" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10148" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10149" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10150" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10151" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10152" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10153" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10154" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10155" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10156" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10157" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10158" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10159" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10160" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10161" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10162" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10163" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10164" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10165" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10166" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10167" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10168" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10169" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10170" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10171" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10172" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10173" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10174" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10175" x="1127" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10176" x="1127" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10177" x="2254" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10178" x="2254" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10179" x="3381" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10180" x="3381" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10181" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10182" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10183" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10184" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10185" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10186" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10187" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10188" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10189" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10190" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10191" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10192" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10193" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10194" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10195" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10196" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10197" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10198" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10199" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10200" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10201" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10202" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10203" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10204" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10205" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10206" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10207" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10208" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10209" x="0" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10210" x="4508" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10211" x="5635" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10212" x="6762" y="3767" width="1117" height="652"/>
+	<SubTexture name="throw instância 10213" x="0" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10214" x="1127" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10215" x="1127" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10216" x="2254" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10217" x="3381" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10218" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10219" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10220" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10221" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10222" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10223" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10224" x="5635" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10225" x="6762" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10226" x="0" y="5091" width="1117" height="652"/>
+	<SubTexture name="throw instância 10227" x="1127" y="5091" width="1117" height="652"/>
+	<SubTexture name="throw instância 10228" x="2254" y="5091" width="1117" height="652"/>
+	<SubTexture name="throw instância 10229" x="3381" y="5091" width="1117" height="652"/>
+	<SubTexture name="throw instância 10230" x="4508" y="5091" width="1117" height="652"/>
+	<SubTexture name="throw instância 10231" x="5635" y="5091" width="1117" height="652"/>
+	<SubTexture name="throw instância 10232" x="6762" y="5091" width="1117" height="652"/>
+	<SubTexture name="throw instância 10233" x="0" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10234" x="0" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10235" x="1127" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10236" x="2254" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10237" x="2254" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10238" x="3381" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10239" x="4508" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10240" x="4508" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10241" x="4508" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10242" x="5635" y="5753" width="1117" height="652"/>
+	<SubTexture name="throw instância 10243" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10244" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10245" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10246" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10247" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10248" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10249" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10250" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10251" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10252" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10253" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10254" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10255" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10256" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10257" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10258" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10259" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10260" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10261" x="4508" y="4429" width="1117" height="652"/>
+	<SubTexture name="throw instância 10262" x="4508" y="4429" width="1117" height="652"/>
+</TextureAtlas>

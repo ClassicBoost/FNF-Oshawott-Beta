@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jared.png">
+<SubTexture name="jared idol0000" x="0" y="0" width="602" height="355" frameX="0" frameY="0" frameWidth="602" frameHeight="355" />
+<SubTexture name="jared down0000" x="602" y="0" width="602" height="355" frameX="0" frameY="0" frameWidth="602" frameHeight="355" />
+<SubTexture name="jared left0000" x="0" y="355" width="602" height="355" frameX="0" frameY="0" frameWidth="602" frameHeight="355" />
+<SubTexture name="jared right0000" x="602" y="355" width="602" height="355" frameX="0" frameY="0" frameWidth="602" frameHeight="355" />
+<SubTexture name="jared up0000" x="0" y="710" width="602" height="355" frameX="0" frameY="0" frameWidth="602" frameHeight="355" />
+</TextureAtlas>

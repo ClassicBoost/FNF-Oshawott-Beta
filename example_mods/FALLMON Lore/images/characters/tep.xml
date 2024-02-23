@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tep.png">
+<SubTexture name="tep danceLEFT0000" x="386" y="453" width="265" height="410" frameX="-97" frameY="-20" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep danceLEFT0001" x="386" y="453" width="265" height="410" frameX="-97" frameY="-48" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep danceRIGHT0000" x="651" y="453" width="265" height="410" frameX="-138" frameY="-18" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep danceRIGHT0001" x="651" y="453" width="265" height="410" frameX="-138" frameY="-48" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep down0000" x="448" y="868" width="471" height="288" frameX="-13" frameY="-179" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep down0001" x="0" y="868" width="448" height="333" frameX="-22" frameY="-129" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep up0000" x="0" y="0" width="321" height="453" frameX="-115" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep up0001" x="321" y="0" width="362" height="443" frameX="-97" frameY="-12" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep left0000" x="683" y="0" width="385" height="415" frameX="-6" frameY="-34" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep left0001" x="1068" y="0" width="395" height="377" frameX="-51" frameY="-78" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep right0000" x="0" y="453" width="386" height="415" frameX="-109" frameY="-32" frameWidth="500" frameHeight="500" />
+<SubTexture name="tep right0001" x="1068" y="377" width="395" height="377" frameX="-54" frameY="-78" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

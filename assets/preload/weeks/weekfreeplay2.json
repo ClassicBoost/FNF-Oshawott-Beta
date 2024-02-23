@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Figure Faceoff",
+			"OshawottFigure",
+			[
+				75,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal, Shiny, Old, Shiny Old",
+	"weekCharacters": [
+		"osha-menu",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Water World",
+	"weekName": "Oshawott W1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

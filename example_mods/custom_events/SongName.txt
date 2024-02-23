@@ -1,0 +1,4 @@
+Makes the Song Name Thing Appear
+Should be placed at the start of the song
+Value1: Song Name
+Value2: Autor Name

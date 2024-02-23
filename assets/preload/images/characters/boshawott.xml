@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boshawott.png">
+<SubTexture name="boshawott danceLEFT0000" x="973" y="325" width="354" height="319" frameX="-92" frameY="-87" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott danceLEFT0001" x="973" y="325" width="354" height="319" frameX="-92" frameY="-120" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott danceRIGHT0000" x="0" y="763" width="354" height="319" frameX="-53" frameY="-82" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott danceRIGHT0001" x="0" y="763" width="354" height="319" frameX="-54" frameY="-120" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott up0000" x="0" y="0" width="320" height="397" frameX="-100" frameY="-41" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott up0001" x="0" y="397" width="353" height="366" frameX="-80" frameY="-72" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott down0000" x="425" y="1388" width="428" height="223" frameX="-49" frameY="-218" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott down0001" x="830" y="1082" width="405" height="253" frameX="-63" frameY="-181" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott left0000" x="973" y="0" width="416" height="325" frameX="-26" frameY="-111" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott left0001" x="0" y="1082" width="415" height="306" frameX="-42" frameY="-129" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott right0000" x="354" y="763" width="390" height="309" frameX="-81" frameY="-114" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott right0001" x="1389" y="0" width="387" height="308" frameX="-78" frameY="-116" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott missu0000" x="320" y="0" width="320" height="397" frameX="-100" frameY="-41" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott missu0001" x="640" y="0" width="333" height="373" frameX="-90" frameY="-66" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott missd0000" x="0" y="1388" width="425" height="237" frameX="-53" frameY="-199" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott missd0001" x="1235" y="1082" width="405" height="253" frameX="-63" frameY="-181" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott missl0000" x="353" y="397" width="416" height="330" frameX="-24" frameY="-102" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott missl0001" x="415" y="1082" width="415" height="306" frameX="-42" frameY="-129" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott missr0000" x="744" y="763" width="391" height="309" frameX="-94" frameY="-110" frameWidth="500" frameHeight="500" />
+<SubTexture name="boshawott missr0001" x="1389" y="308" width="387" height="308" frameX="-78" frameY="-116" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

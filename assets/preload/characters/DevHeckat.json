@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-613,
+				-240
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "heckat idle"
+		},
+		{
+			"offsets": [
+				-650,
+				-189
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "heckat left"
+		},
+		{
+			"offsets": [
+				-613,
+				-186
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "heckat down"
+		},
+		{
+			"offsets": [
+				-622,
+				-184
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "heckat up"
+		},
+		{
+			"offsets": [
+				-630,
+				-210
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "heckat right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-613,
+				-240
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 18,
+			"name": "heckat altR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-613,
+				-240
+			],
+			"anim": "singLEFT-alt",
+			"fps": 18,
+			"name": "heckat altL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-613,
+				-240
+			],
+			"anim": "singDOWN-alt",
+			"fps": 18,
+			"name": "heckat altD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-613,
+				-240
+			],
+			"anim": "singUP-alt",
+			"fps": 18,
+			"name": "heckat altU",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heckat",
+	"position": [
+		-630,
+		-40
+	],
+	"healthicon": "heckat",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		55,
+		0
+	],
+	"camera_position": [
+		530,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

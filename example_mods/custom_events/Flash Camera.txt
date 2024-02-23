@@ -1,0 +1,3 @@
+Flashes Camera
+
+Value 2: speed

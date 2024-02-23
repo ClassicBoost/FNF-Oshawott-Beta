@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfoshano.png"><SubTexture name="bfoshano idle0000" x="0" y="0" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano idle0001" x="84" y="0" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano idle0002" x="168" y="0" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano idle0003" x="252" y="0" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano down0000" x="0" y="104" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano down0001" x="84" y="104" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano down0002" x="168" y="104" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano up0000" x="252" y="104" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano up0001" x="0" y="208" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano up0002" x="84" y="208" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano left0000" x="168" y="208" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano left0001" x="252" y="208" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano left0002" x="0" y="312" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano right0000" x="84" y="312" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano right0001" x="168" y="312" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+<SubTexture name="bfoshano right0002" x="252" y="312" width="84" height="104" frameX="0" frameY="0" frameWidth="84" frameHeight="104" />
+</TextureAtlas>

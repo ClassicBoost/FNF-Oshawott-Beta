@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-29,
+				250
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "boshawott danceLEFT"
+		},
+		{
+			"offsets": [
+				-8,
+				248
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "boshawott danceRIGHT"
+		},
+		{
+			"offsets": [
+				-20,
+				225
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boshawott down"
+		},
+		{
+			"offsets": [
+				-16,
+				250
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boshawott up"
+		},
+		{
+			"offsets": [
+				134,
+				252
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "boshawott left"
+		},
+		{
+			"offsets": [
+				-222,
+				234
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "boshawott right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				230
+			],
+			"anim": "singDOWNmiss",
+			"fps": 15,
+			"name": "boshawott missd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				250
+			],
+			"anim": "singLEFTmiss",
+			"fps": 15,
+			"name": "boshawott missl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				230
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 15,
+			"name": "boshawott missr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				242
+			],
+			"anim": "singUPmiss",
+			"fps": 15,
+			"name": "boshawott missu",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boshawott",
+	"position": [
+		100,
+		500
+	],
+	"healthicon": "bosh",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		137,
+		204
+	],
+	"camera_position": [
+		170,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

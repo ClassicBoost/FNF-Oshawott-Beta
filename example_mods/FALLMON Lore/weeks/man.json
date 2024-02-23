@@ -1,0 +1,32 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"difficulties": "Normal",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"fallmon lore",
+			"classic",
+			[
+				255,
+				113,
+				113
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

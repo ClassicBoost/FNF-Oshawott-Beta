@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				330
+			],
+			"anim": "danceLeft",
+			"fps": 6,
+			"name": "sniv danceLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				328
+			],
+			"anim": "danceRight",
+			"fps": 6,
+			"name": "sniv danceRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				325
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "sniv down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				330
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "sniv up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				204,
+				312
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "sniv left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-162,
+				314
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "sniv right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sniv",
+	"position": [
+		100,
+		500
+	],
+	"healthicon": "bliv",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		93,
+		17
+	],
+	"camera_position": [
+		110,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

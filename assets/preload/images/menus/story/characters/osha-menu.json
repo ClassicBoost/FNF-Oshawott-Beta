@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "up",
+	"idle_anim": "idle",
+	"position": [
+		909,
+		357
+	],
+	"scale": 0.35,
+	"image": "osha-menu",
+	"flipX": false
+}
